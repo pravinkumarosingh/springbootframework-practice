@@ -17,7 +17,8 @@ public class CourseController {
                 new Course(3, "Learn Docker", "in28minutes"),
                 new Course(4, "Learn Git", "in28minutes"),
                 new Course(5, "Learn Kafka", "in28minutes"),
-                new Course(6, "Learn Camel", "in28minutes")
+                new Course(6, "Learn Camel", "in28minutes"),
+                new Course(7, "Learn Angular", "in28minutes")
 
         );
     }
